@@ -1,0 +1,51 @@
+body {
+    font-family: manrope;
+}
+h1 {
+
+    color: black;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 50px;
+}
+
+.paragraph1{
+    width: 900px;
+    height: 427px;
+}
+
+.paragraph1 h2{
+    line-height: 30px;
+    font-weight: 400;
+    font-size: 15px;
+    color: black;
+}
+.title{
+    text-transform: uppercase;
+    line-height: 24px;
+    font-weight: 600;
+    font-size: 20px;
+
+
+}
+
+.image1{
+    background-image: url("../image/image1.jpg");
+    width: 1150px;
+    height: 500px;
+}
+
+.image1 p{
+    height: 200px;
+    font-size: 15px;
+    font-weight: 300;
+    color: white;
+    padding-left: 40px;
+    padding-top: 400px;
+    
+}
+
+.image1-text{
+    width: 350px;
+}
+
