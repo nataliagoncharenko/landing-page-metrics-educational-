@@ -7,24 +7,33 @@ h1 {
     font-size: 40px;
     font-weight: 800;
     line-height: 50px;
+    margin-bottom: 70px; 
+    margin-left: 164px;
+    margin-right: 280px;
+    
 }
 
 .paragraph1{
-    width: 900px;
-    height: 427px;
+    width: 1200px;
+    height: 150px;
 }
 
 .paragraph1 h2{
     line-height: 30px;
     font-weight: 400;
-    font-size: 15px;
+    font-size: 25px;
     color: black;
+    margin-left: 164px;
+    margin-right: 24px;
 }
 .title{
     text-transform: uppercase;
     line-height: 24px;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 18px;
+    margin-left: 164px;
+    margin-right: 224px;
+    margin-bottom: 30px;
 
 
 }
@@ -33,6 +42,9 @@ h1 {
     background-image: url("../image/image1.jpg");
     width: 1150px;
     height: 500px;
+    margin-left: 164px;
+    margin-right: 86px;
+    margin-bottom: 100px;
 }
 
 .image1 p{
@@ -49,3 +61,22 @@ h1 {
     width: 350px;
 }
 
+.btn{
+    display: block;
+    width: 200px;
+    height: 50px;
+    border: 1px solid #962929;
+    text-align: center;
+    line-height: 50px;
+    text-decoration: none;
+    color: white;
+    margin-left: 164px;
+    background-color: #962929;
+    
+
+}
+
+.btn:hover{
+    color: red;
+    background-color: white;
+}
